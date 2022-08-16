@@ -16,14 +16,14 @@
 
 ### :man_technologist: About Me :
         
-<!-- - :telescope: I’m working as a Software Engineer and contributing to frontend for building website. -->
 I'm 24 years old, I'm a frontend engineer, I have been programming for about 2 years.
 
-I have experience in developing sites on cms Wordpress, Joomla ... </br>
+Now I'm interested in frameworks like Vue, I developing sites and app at Vue </br>
+
+Same way I have experience in developing sites on cms Wordpress, Joomla ... </br>
 
 Creating plugins and improving functionality on these platforms
 
-Now I'm interested in frameworks like Vue
 
 ---
 
@@ -41,6 +41,7 @@ Now I'm interested in frameworks like Vue
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
 </div></br>
 
 
