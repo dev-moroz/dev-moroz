@@ -48,4 +48,5 @@ Creating plugins and improving functionality on these platforms
 ### 📈 GitHub Stats
 
 <!-- ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-moroz&count_private=true&hide=contribs&show_icons=true&theme=radical) </br> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-moroz&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
+<!--  ![gruvbox_light's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/api?username=dev-moroz&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=dev-moroz&theme=gruvbox)
