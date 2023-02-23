@@ -16,7 +16,7 @@
 
 ### :man_technologist: About Me :
         
-I'm 24 years old, I'm a frontend engineer, I have been programming for about 2 years.
+I'm 24 years old, I'm a frontend engineer, I have been programming for about 3 years.
 
 Now I'm interested in frameworks like Vue, I developing sites and app at Vue </br>
 
