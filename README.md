@@ -16,13 +16,15 @@
 
 ### :man_technologist: About Me :
         
-I'm 24 years old, I'm a frontend engineer, I have been programming for about 3 years.
+<p> I'm 26 years old, I'm a front-end engineer, I've been a programmer for over 4 years.
+I specialized in Vue and Nuxt. </br>
 
-Now I'm interested in frameworks like Vue, I developing sites and app at Vue </br>
+</p>
 
-Same way I have experience in developing sites on cms Wordpress, Joomla ... </br>
+<p>Now I'm interested in creating apps on different frameworks, like React, Angular, Nest, etc. </p>
 
-Creating plugins and improving functionality on these platforms
+<p>Same way I have experience in developing sites on cms Wordpress, Joomla ... </br>
+Creating plugins and improving functionality on these platforms</p>
 
 
 ---
