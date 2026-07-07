@@ -55,10 +55,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
 </div></br>
-
-
-### 📈 GitHub Stats
-
-<!-- ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-moroz&count_private=true&hide=contribs&show_icons=true&theme=radical) </br> -->
-<!--  ![gruvbox_light's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/api?username=dev-moroz&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=dev-moroz&theme=gruvbox)
